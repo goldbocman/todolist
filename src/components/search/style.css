@@ -1,0 +1,18 @@
+
+
+.search-field-container {
+    padding: 8px 12px;
+}
+
+.search-field-container > input {
+    outline: #665C5C;
+    border: none;
+
+    box-shadow: 0px 0px 20px -10px #595959;
+    border-radius: 18px;
+    padding: 8px 20px;
+
+    font-size: 1rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+}

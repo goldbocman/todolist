@@ -1,0 +1,14 @@
+.item-block-list li::marker {
+    color: rgb(73, 50, 243);
+    text-shadow: 0px 0px 6px rgb(73, 50, 243);
+}
+
+.item-block-title {
+    color: rgb(73, 50, 243);
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.item-block-container {
+    padding: 0px 10px;
+}
